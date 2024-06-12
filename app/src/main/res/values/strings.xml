@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AcneScan</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="label_edit">Edit</string>
+    <string name="label_crop_cancelled">Crop Cancelled</string>
+    <string name="title_home">Deteksi Level Jerawat Akurat, Solusi Tepat di Ujung Jari</string>
+    <string name="home_desc">Aplikasi wajib bagi kamu yang ingin merawat kulit berjerawat. Deteksi dini, penanganan tepat, kulit sehat terawat.</string>
+    <string name="label_detect_now">Detect Now</string>
+    <string name="label_or">Or</string>
+    <string name="label_see_your_prediction_history">See your Prediction History</string>
+    <string name="label_health_news">Health News</string>
+    <string name="dot">•</string>
+    <string name="label_cancer_detection">Acne Detection</string>
+    <string name="save">Save</string>
+    <string name="label_this_data_already_saved">This Data Already Saved</string>
+    <string name="label_data_saved">Data Saved</string>
+    <string name="label_detection_history">Detection History</string>
+</resources>
